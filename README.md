@@ -12,6 +12,18 @@ Project Summary
 
 
 
+https://github.com/user-attachments/assets/3112c67c-48e2-4e45-8f05-624a87322188
+
+
+
+https://github.com/user-attachments/assets/3ad71fbe-07a0-4319-b49c-5bb209e37cf8
+
+
+
+https://github.com/user-attachments/assets/a876eac6-be53-4f7f-acb0-bc190092581f
+
+
+
 Specific Objectives: 
 1. Component Identification: identify and understand the function of each 
 component, including the hydraulic cylinder, valves, pump, sensors, and 
