@@ -45,3 +45,6 @@ the cylinder retracts, triggering the limit switch.
 4. Conveyor Movement: The activated relay energizes the conveyor motor, 
 starting the conveyor and moving the next jar into position. 
 5. Cycle Repetition: The process repeats for the next jar.
+<img width="775" height="747" alt="Screenshot 2026-05-19 043207" src="https://github.com/user-attachments/assets/44831069-8853-4096-a672-17b668ad0a3b" />
+<img width="674" height="855" alt="Screenshot 2026-05-19 043240" src="https://github.com/user-attachments/assets/66965100-658e-4c66-8abd-78e6a48f5d10" />
+<img width="770" height="482" alt="Screenshot 2026-05-19 043224" src="https://github.com/user-attachments/assets/ed8dfe8d-1850-4819-960d-205f9647911f" />
