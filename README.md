@@ -1,7 +1,14 @@
 Project Summary 
+
+
 ➢ This project focuses on simulating and operating a control panel for a hydraulic cylinder system. 
+
+
 ➢ The controlling panel manages the extending and retracting a hydraulic piston cylinder with 2 limit switches. 
+
+
 ➢ The primary objective is to understand of the panel's components, their interactions, and the role of hardwiring in its operation. 
+
 
 
 
